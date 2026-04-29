@@ -23,7 +23,7 @@ To maintain a centralized, authoritative glossary for all SquaredSimms™ termin
 * Clean integration with the Chamber‑of‑Kodexes™
 * Cross‑compatibility with Obsidian, GitHub Pages, and internal knowledgebases
 
-##🧵 What “Knot Logic” Means Here
+## 🧵 What “Knot Logic” Means Here
 
 In the SquaredSimms™ Universe, a knot is:
 1. A linguistic loop
