@@ -1,14 +1,35 @@
 name: Bug Report
 description: Report a problem or unexpected behavior
-labels: [bug]
+title: "[BUG] "
+labels: ["bug"]
 body:
   - type: textarea
     id: description
-    label: What happened?
+    attributes:
+      label: What happened?
+      description: Describe the issue in detail.
+    validations:
+      required: true
+
   - type: textarea
     id: expected
-    label: What did you expect?
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
   - type: textarea
     id: steps
-    label: Steps to reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Provide step-by-step instructions.
+    validations:
+      required: false
 
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment details
+      description: OS, browser, version, etc.
+    validations:
+      required: false
