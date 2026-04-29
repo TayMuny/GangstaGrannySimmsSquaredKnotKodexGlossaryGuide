@@ -1,1 +1,14 @@
+name: Bug Report
+description: Report a problem or unexpected behavior
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    label: What happened?
+  - type: textarea
+    id: expected
+    label: What did you expect?
+  - type: textarea
+    id: steps
+    label: Steps to reproduce
 
