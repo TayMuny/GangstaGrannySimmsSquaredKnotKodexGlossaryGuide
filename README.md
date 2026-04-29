@@ -1,3 +1,5 @@
+![License: GangstaGrannySimmsSquaredKnotKodexGlossaryGuide™ Reference License](https://img.shields.io/badge/License-GGSSKnotKodex™%20Reference-blueviolet)
+
 # GangstaGrannySimmsSquaredKnotKodexGlossaryGuide
 GangstaGrannySimmsSquaredKnotKodexGlossaryGuide™ = A canon‑locked glossary, knot‑mapping index, and linguistic logic guide for the SquaredSimms™ Universe. Central hub for terms, knots, lineage lore, and Chamber‑of‑Kodexes™ navigation in GangstaGrannySimms™’ ancestral voice.
 
@@ -36,3 +38,25 @@ This guide documents:
 - Knot variations
 - Knot‑to‑term relationships
 - Knot‑breaking and knot‑binding patterns
+
+##  🌀 Canon Alignment
+This glossary is aligned with:
++ S.A.R.A.I. Staircase™
++ R.O.S.C.O.E. Roadmap™
++ SquaredSimms™LeahLineageLegacyLore™
++ Chamber‑of‑Kodexes™ Navigation Standards
++ Universe‑wide linguistic consistency protocols
+
+## 🛠 Contributing
+Contributions must follow:
+* Canon‑locked terminology
+* Correct trademark/service mark placement
+* Knot‑logic integrity
+* Chamber‑compatible formatting
+* Obsidian‑safe Markdown
+
+!! See docs/contributing.md for full rules.
+
+## ©, Trademark & Universe Notes
+All terms, frameworks, and universe constructs are part of the Sarais Souldiers LLC™ intellectual ecosystem.
+Correct ™ and ℠ placement is required in all derivative works.
